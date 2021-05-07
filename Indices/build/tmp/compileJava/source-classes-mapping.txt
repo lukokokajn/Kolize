@@ -1,0 +1,6 @@
+educanet/Maze.java
+ educanet.Maze
+educanet/Main.java
+ educanet.Main
+educanet/Shaders.java
+ educanet.Shaders
